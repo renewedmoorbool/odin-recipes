@@ -22,5 +22,8 @@ img {
 .ingredients {
     border: 1px solid black;
     border-radius: 10px solid black;
-
+    padding-top: 30px;
+    padding-bottom: 30px;
+    list-style-type: square;
+    background-color: rgb(235, 138, 40);
 }
