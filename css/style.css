@@ -1,0 +1,26 @@
+button { 
+    display: block;
+
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+
+    background-color: rgb(5, 139, 184);
+    
+}
+
+button a {
+    text-decoration: none;
+    color: white 
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: 3px 5px rgb(219, 196, 196);
+}
+
+.ingredients {
+    border: 1px solid black;
+    border-radius: 10px solid black;
+
+}
